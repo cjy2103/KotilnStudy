@@ -5,3 +5,8 @@
 코틀린 한줄 다중변수 선언 안되는 이유 ( v )
 
 코틀린 기본 Nested class 자바 기본 class 비교
+
+코틀린 접근 지정자.
+코틀린 Getter Setter
+
+swich문
