@@ -7,5 +7,5 @@ fun main(arrs : Array<String>){
     }
     print("1에서 10까지의 합:$sum")
 
-
+    
 }
