@@ -9,4 +9,7 @@
 코틀린 접근 지정자.
 코틀린 Getter Setter
 
-swich문
+swich문 ( v )
+
+companion object 
+
