@@ -1,5 +1,7 @@
 class CompanionOnbectTest {
-    fun test(){
-
+    companion object {
+        fun plus(a : Int,b : Int){
+            println(a+b)
+        }
     }
 }
