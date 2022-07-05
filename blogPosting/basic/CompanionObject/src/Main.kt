@@ -1,5 +1,5 @@
 fun main(){
-//    CompanionOnbectTest.plus(5,6)
+//    CompanionObjectTest.plus(5,6)
 //
 //    val person = Person("철수")
 //    person.print()
