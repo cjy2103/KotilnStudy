@@ -13,4 +13,4 @@ swich문 ( v )
 
 companion object ( v )
 
-반복문 ( for문 )
+반복문 ( v )
