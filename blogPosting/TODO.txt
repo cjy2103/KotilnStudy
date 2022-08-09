@@ -15,4 +15,4 @@ companion object ( v )
 
 반복문 ( v )
 
-클로저 
+클로저 ( v )
