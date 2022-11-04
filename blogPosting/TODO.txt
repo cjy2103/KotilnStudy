@@ -18,3 +18,5 @@ companion object ( v )
 클로저 ( v )
 
 try / catch
+
+고차함수
