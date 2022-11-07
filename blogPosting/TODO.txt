@@ -17,6 +17,11 @@ companion object ( v )
 
 클로저 ( v )
 
+
+리시버란?
+Function literals with receiver
+
+
 try / catch
 
 고차함수
