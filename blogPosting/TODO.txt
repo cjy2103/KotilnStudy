@@ -18,7 +18,7 @@ companion object ( v )
 클로저 ( v )
 
 
-리시버란?
+리시버란? ( v )
 Function literals with receiver
 
 
