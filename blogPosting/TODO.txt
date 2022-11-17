@@ -19,6 +19,8 @@ companion object ( v )
 
 
 리시버란? ( v )
+
+일급객체 ( )
 Function literals with receiver
 
 
