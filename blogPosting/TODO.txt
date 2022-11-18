@@ -20,7 +20,8 @@ companion object ( v )
 
 리시버란? ( v )
 
-일급객체 ( )
+일급객체 ( v )
+더블콜론 :: 참조 ( )
 Function literals with receiver
 
 
