@@ -21,5 +21,3 @@ fun plus(a : Int, b : Int, add : (Int, Int) -> Int ){
 fun minus(a : Int, b : Int, subtract : (Int, Int) -> Unit){
     subtract(a,b)
 }
-
-//println("$a - $b -> ${a-b}")
