@@ -28,6 +28,8 @@ Nothing ( )
 Function literals with receiver
 
 
-try / catch
+try / catch ( v ) 
 
-고차함수
+배열 ( v )
+
+고차함수 ( v )
