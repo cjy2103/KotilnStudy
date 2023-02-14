@@ -17,6 +17,9 @@ companion object ( v )
 
 클로저 ( v )
 
+Getter/Setter 원리, 기본 접근제한자 ( v )
+
+배열 ,다차원 배열 ( v )
 
 리시버란? ( v )
 
