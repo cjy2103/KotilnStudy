@@ -36,6 +36,7 @@ Function literals with receiver
 
 엘비스 연산자 ( v )
 
+스코프함수 let, run ( v )
 
 try / catch ( v ) 
 
