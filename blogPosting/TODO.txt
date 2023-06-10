@@ -45,3 +45,5 @@ try / catch ( v )
 고차함수 ( v )
 
 스코프함수 also ( v )
+
+Pair ( v )
