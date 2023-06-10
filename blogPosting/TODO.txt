@@ -43,3 +43,5 @@ try / catch ( v )
 배열 ( v )
 
 고차함수 ( v )
+
+스코프함수 also ( v )
