@@ -47,3 +47,5 @@ try / catch ( v )
 스코프함수 also ( v )
 
 Pair ( v )
+
+Triple ( v )
