@@ -1,7 +1,8 @@
-fun main(args: Array<String>) {
-    println("Hello World!")
+fun main() {
+    val triple: Triple<String, Int, Double> = Triple("철수", 175, 56.3)
+    val name: String = triple.first
+    val height: Int = triple.second
+    val weight: Double = triple.third
 
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
-    println("Program arguments: ${args.joinToString()}")
+    println("이름: $name, 키: $height cm, 가격: $weight kg") // 출력: 과일: Apple, 수량: 10, 가격: 4900
 }
