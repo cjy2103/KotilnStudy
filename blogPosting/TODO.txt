@@ -51,3 +51,5 @@ try / catch ( v )
 Pair ( v )
 
 Triple ( v )
+
+sealed class ( v )
