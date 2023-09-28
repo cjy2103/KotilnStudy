@@ -34,7 +34,7 @@ invoke ( v )
 Unit 타입? ( v )
 Nothing ( )
 
-Function literals with receiver
+Function literals with receiver ( v )
 
 엘비스 연산자 ( v )
 
