@@ -7,7 +7,7 @@
 코틀린 기본 Nested class 자바 기본 class 비교
 
 코틀린 접근 지정자.
-코틀린 Getter Setter
+코틀린 Getter Setter ( v )
 
 swich문 ( v )
 
