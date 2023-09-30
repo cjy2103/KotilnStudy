@@ -53,3 +53,5 @@ Pair ( v )
 Triple ( v )
 
 sealed class ( v )
+
+코틀린 주생성자, 부생성자 ( )
