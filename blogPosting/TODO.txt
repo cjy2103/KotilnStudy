@@ -54,4 +54,5 @@ Triple ( v )
 
 sealed class ( v )
 
-코틀린 주생성자, 부생성자 ( )
+코틀린(Kotlin) - 주생성자와 부 생성자 / constructor 가 init 블록보다 늦게 실행되는 이유 ( v )
+
