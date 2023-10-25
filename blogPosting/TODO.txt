@@ -56,3 +56,4 @@ sealed class ( v )
 
 코틀린(Kotlin) - 주생성자와 부 생성자 / constructor 가 init 블록보다 늦게 실행되는 이유 ( v )
 
+Kotlin 정보 - 람다 매개변수 _ 의미 ( v )
