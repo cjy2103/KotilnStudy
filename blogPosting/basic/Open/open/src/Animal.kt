@@ -1,5 +1,5 @@
-class Animal {
-    fun bark(bark: String){
+ open class Animal {
+     open fun bark(bark: String){
         println(bark)
     }
 }

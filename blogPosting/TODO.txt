@@ -35,7 +35,7 @@ invoke ( v )
 Unit 타입? ( v )
 Nothing ( )
 
-open 키워드 ( )
+Kotlin - open 키워드 / 코틀린의 상속 / 왜 코틀린은 상속을 비효율적으로 하게 하였는가. ( v )
 
 Function literals with receiver ( v )
 
