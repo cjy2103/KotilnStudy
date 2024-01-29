@@ -1,7 +1,6 @@
 class Outer {
-    class Nested(){
-        fun printMessage(){
-            println("중첩 클래스")
-        }
+    private val outerProperty : Int = 10
+    class Nested{
+        fun printMessage() = 5
     }
 }
